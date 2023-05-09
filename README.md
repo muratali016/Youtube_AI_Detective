@@ -1,5 +1,6 @@
 # YouTube AI Detective
-
+### Download the App 
+**Link**:https://drive.google.com/drive/folders/1U3ZgePofywQdR_KZyzOXaw449W7SfAhI?usp=sharing
 * This is a PyQt5-based application that detects ads in YouTube videos and provides a transcript of the video. It uses the YouTube Transcript API and the OpenAI GPT-3.5-turbo model for natural language processing tasks.
 
 
@@ -23,8 +24,7 @@ Before running the application, make sure you have the following dependencies in
 * openai
 You can install these dependencies using pip or any other package manager.
 
-### Download the App 
-**Link**:https://drive.google.com/drive/folders/1U3ZgePofywQdR_KZyzOXaw449W7SfAhI?usp=sharing
+
 
 ### License
 This project is licensed under the MIT License.
